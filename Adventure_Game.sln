@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adventure_Game.Android", "Adventure_Game\Adventure_Game.Android\Adventure_Game.Android.csproj", "{C3095AF2-08FB-49DE-AB61-3B46BCF4D20D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adventure_Game", "Adventure_Game\Adventure_Game\Adventure_Game.csproj", "{4C221570-B4C5-45B5-8484-CDD4A25C2C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3095AF2-08FB-49DE-AB61-3B46BCF4D20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3095AF2-08FB-49DE-AB61-3B46BCF4D20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3095AF2-08FB-49DE-AB61-3B46BCF4D20D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C3095AF2-08FB-49DE-AB61-3B46BCF4D20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3095AF2-08FB-49DE-AB61-3B46BCF4D20D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3095AF2-08FB-49DE-AB61-3B46BCF4D20D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4C221570-B4C5-45B5-8484-CDD4A25C2C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C221570-B4C5-45B5-8484-CDD4A25C2C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C221570-B4C5-45B5-8484-CDD4A25C2C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C221570-B4C5-45B5-8484-CDD4A25C2C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82662D13-AB0A-4EA8-A032-F53C281ACB11}
+	EndGlobalSection
+EndGlobal
